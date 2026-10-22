@@ -1747,7 +1747,7 @@
                         <i class="bi bi-mortarboard-fill"></i>
                     </div>
                     <div class="brand-text">
-                        <h1>TRAINING <span>COMPANY</span></h1>
+                        <h1>TRAINING <span>CORP</span></h1>
                     </div>
                 </a>
 
@@ -1800,7 +1800,7 @@
                             <i class="bi bi-mortarboard-fill"></i>
                         </div>
                         <div class="brand-text">
-                            <h3 style="font-size: 0.98rem; font-weight: 800; color: #fff;">TRAINING <span style="color: #10b981;">COMPANY INDONESIA</span></h3>
+                            <h3 style="font-size: 0.98rem; font-weight: 800; color: #fff;">TRAINING <span style="color: #10b981;">CORP INDONESIA</span></h3>
                         </div>
                     </div>
                     <p class="footer-desc">
