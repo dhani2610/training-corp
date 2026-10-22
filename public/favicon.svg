@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <defs>
+    <linearGradient id="triGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#dc2626"/>
+      <stop offset="50%" stop-color="#2563eb"/>
+      <stop offset="100%" stop-color="#059669"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="2" stdDeviation="3" flood-color="#2563eb" flood-opacity="0.4"/>
+    </filter>
+  </defs>
+  <!-- Background Shield / Squircle -->
+  <rect x="4" y="4" width="56" height="56" rx="14" fill="#0f172a" stroke="url(#triGrad)" stroke-width="2.5" filter="url(#glow)"/>
+  <!-- Tri-color emblem accents -->
+  <path d="M14 18 H26 L22 46 H10 Z" fill="#dc2626" opacity="0.95"/>
+  <path d="M26 18 H38 L34 46 H22 Z" fill="#2563eb" opacity="0.95"/>
+  <path d="M38 18 H50 L46 46 H34 Z" fill="#059669" opacity="0.95"/>
+  <!-- Central Star / Diamond in white -->
+  <circle cx="32" cy="32" r="5" fill="#ffffff"/>
+</svg>

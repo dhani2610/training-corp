@@ -1,0 +1,1002 @@
+[
+  {
+    "index": 1,
+    "title": "Training Refrigeration Safety & Industrial Control System",
+    "slug": "training-refrigeration-safety-industrial-control-system"
+  },
+  {
+    "index": 2,
+    "title": "Training Lifting Gear Inspection, Rigging & Crane Safety",
+    "slug": "training-lifting-gear-inspection-rigging-crane-safety"
+  },
+  {
+    "index": 3,
+    "title": "Training Rotating Equipment Operation, Maintenance & Troubleshooting",
+    "slug": "training-rotating-equipment-operation-maintenance-troubleshooting"
+  },
+  {
+    "index": 4,
+    "title": "Training Reliability Centered Maintenance (RCM) Strategy",
+    "slug": "training-reliability-centered-maintenance-rcm-strategy"
+  },
+  {
+    "index": 5,
+    "title": "Training Advance Building Management & Smart Automation",
+    "slug": "training-advance-building-management-smart-automation"
+  },
+  {
+    "index": 6,
+    "title": "Training Industrial Magnetic Particle Testing & Non-Destructive Evaluation",
+    "slug": "training-industrial-magnetic-particle-testing-non-destructive-evaluation"
+  },
+  {
+    "index": 7,
+    "title": "Training Machinery Vibration Analysis & Spectrum Diagnostics",
+    "slug": "training-machinery-vibration-analysis-spectrum-diagnostics"
+  },
+  {
+    "index": 8,
+    "title": "Training Total Productive Maintenance (TPM) Implementation",
+    "slug": "training-total-productive-maintenance-tpm-implementation"
+  },
+  {
+    "index": 9,
+    "title": "Training Electrical Maintenance Low and Medium Voltage Substation",
+    "slug": "training-electrical-maintenance-low-and-medium-voltage-substation"
+  },
+  {
+    "index": 10,
+    "title": "Training Electrical Inspection Low-Medium Voltage Switchgear Panel",
+    "slug": "training-electrical-inspection-low-medium-voltage-switchgear-panel"
+  },
+  {
+    "index": 11,
+    "title": "Training SolidWorks Mechanical Product Design & 3D CAD Modeling",
+    "slug": "training-solidworks-mechanical-product-design-3d-cad-modeling"
+  },
+  {
+    "index": 12,
+    "title": "Training Control Valve Sizing, Operation, Maintenance & Calibration",
+    "slug": "training-control-valve-sizing-operation-maintenance-calibration"
+  },
+  {
+    "index": 13,
+    "title": "Training Centrifugal Compressor Operation & Gas Turbine Performance",
+    "slug": "training-centrifugal-compressor-operation-gas-turbine-performance"
+  },
+  {
+    "index": 14,
+    "title": "Training Centrifugal Pump Overhaul, Dynamic Balancing & Mechanical Seal",
+    "slug": "training-centrifugal-pump-overhaul-dynamic-balancing-mechanical-seal"
+  },
+  {
+    "index": 15,
+    "title": "Training Cathodic Protection Pipeline & Underground Storage Tank",
+    "slug": "training-cathodic-protection-pipeline-underground-storage-tank"
+  },
+  {
+    "index": 16,
+    "title": "Training Belt Conveyor System Operation, Splice & Maintenance",
+    "slug": "training-belt-conveyor-system-operation-splice-maintenance"
+  },
+  {
+    "index": 17,
+    "title": "Training Precision Shaft Alignment, Laser Balancing & Coupling Inspection",
+    "slug": "training-precision-shaft-alignment-laser-balancing-coupling-inspection"
+  },
+  {
+    "index": 18,
+    "title": "Training PLC, HMI & SCADA Programming for Industrial Automation",
+    "slug": "training-plc-hmi-scada-programming-for-industrial-automation"
+  },
+  {
+    "index": 19,
+    "title": "Training Heavy Equipment Fleet Management & Maintenance Planning",
+    "slug": "training-heavy-equipment-fleet-management-maintenance-planning"
+  },
+  {
+    "index": 20,
+    "title": "Training Industrial Chiller, Cooling Tower & Water Treatment System",
+    "slug": "training-industrial-chiller-cooling-tower-water-treatment-system"
+  },
+  {
+    "index": 21,
+    "title": "Training HVAC Operation, Psychrometric Air Balancing & Maintenance",
+    "slug": "training-hvac-operation-psychrometric-air-balancing-maintenance"
+  },
+  {
+    "index": 22,
+    "title": "Training Corrosion Monitoring & Cathodic Prevention Engineering",
+    "slug": "training-corrosion-monitoring-cathodic-prevention-engineering"
+  },
+  {
+    "index": 23,
+    "title": "Training Weighbridge Load Cell Calibration, Inspection & Maintenance",
+    "slug": "training-weighbridge-load-cell-calibration-inspection-maintenance"
+  },
+  {
+    "index": 24,
+    "title": "Training Heavy Vehicle Diagnostic, Common Rail Diesel & ECU Scanning",
+    "slug": "training-heavy-vehicle-diagnostic-common-rail-diesel-ecu-scanning"
+  },
+  {
+    "index": 25,
+    "title": "Training Mechatronics System Integration & Industrial Sensorics",
+    "slug": "training-mechatronics-system-integration-industrial-sensorics"
+  },
+  {
+    "index": 26,
+    "title": "Training Diesel Engine Overhaul, Fuel Injection & Emission Tuning",
+    "slug": "training-diesel-engine-overhaul-fuel-injection-emission-tuning"
+  },
+  {
+    "index": 27,
+    "title": "Training Distributed Control System (DCS) Engineering & Architecture",
+    "slug": "training-distributed-control-system-dcs-engineering-architecture"
+  },
+  {
+    "index": 28,
+    "title": "Training Geotechnical Soil Testing, Slope Stability & Earthwork QA/QC",
+    "slug": "training-geotechnical-soil-testing-slope-stability-earthwork-qa-qc"
+  },
+  {
+    "index": 29,
+    "title": "Training Industrial Generator Set (Genset) Synchronization & Protection",
+    "slug": "training-industrial-generator-set-genset-synchronization-protection"
+  },
+  {
+    "index": 30,
+    "title": "Training Reliability, Availability & Maintainability (RAM) Modeling",
+    "slug": "training-reliability-availability-maintainability-ram-modeling"
+  },
+  {
+    "index": 31,
+    "title": "Training Industrial Gearbox Overhaul, Bearing Fit & Lubrication Analysis",
+    "slug": "training-industrial-gearbox-overhaul-bearing-fit-lubrication-analysis"
+  },
+  {
+    "index": 32,
+    "title": "Training Gas Metal Arc Welding (GMAW / MIG-MAG) Quality Control",
+    "slug": "training-gas-metal-arc-welding-gmaw-mig-mag-quality-control"
+  },
+  {
+    "index": 33,
+    "title": "Training Gas Chromatography (GC-FID/TCD) Petrochemical Laboratory Analysis",
+    "slug": "training-gas-chromatography-gc-fid-tcd-petrochemical-laboratory-analysis"
+  },
+  {
+    "index": 34,
+    "title": "Training Finite Element Analysis (FEA) Structural Stress Simulation",
+    "slug": "training-finite-element-analysis-fea-structural-stress-simulation"
+  },
+  {
+    "index": 35,
+    "title": "Training Failure Analysis, Fractography & Material Defect Investigation",
+    "slug": "training-failure-analysis-fractography-material-defect-investigation"
+  },
+  {
+    "index": 36,
+    "title": "Training Variable Speed Drive (VSD / VFD) Harmonics & Motor Protection",
+    "slug": "training-variable-speed-drive-vsd-vfd-harmonics-motor-protection"
+  },
+  {
+    "index": 37,
+    "title": "Training Total Productive Maintenance (TPM) Overall Equipment Effectiveness (OEE)",
+    "slug": "training-total-productive-maintenance-tpm-overall-equipment-effectiveness-oee"
+  },
+  {
+    "index": 38,
+    "title": "Training Industrial Plant Turnaround, Shutdown & Outage Management",
+    "slug": "training-industrial-plant-turnaround-shutdown-outage-management"
+  },
+  {
+    "index": 39,
+    "title": "Training Steam Boiler Efficiency Testing ASME PTC 4.1 & Burner Tuning",
+    "slug": "training-steam-boiler-efficiency-testing-asme-ptc-4-1-burner-tuning"
+  },
+  {
+    "index": 40,
+    "title": "Training Advanced Instrumentation, Fieldbus & Smart Transmitter Calibration",
+    "slug": "training-advanced-instrumentation-fieldbus-smart-transmitter-calibration"
+  },
+  {
+    "index": 41,
+    "title": "Training Metallurgy for Mechanical Engineers & Heat Treatment Process",
+    "slug": "training-metallurgy-for-mechanical-engineers-heat-treatment-process"
+  },
+  {
+    "index": 42,
+    "title": "Training CCTV Security Integration, IP Camera & Network Video Recording",
+    "slug": "training-cctv-security-integration-ip-camera-network-video-recording"
+  },
+  {
+    "index": 43,
+    "title": "Training Mining Electrical Power System Protection & Relaying",
+    "slug": "training-mining-electrical-power-system-protection-relaying"
+  },
+  {
+    "index": 44,
+    "title": "Training Industrial Valve Inspection, Seat Leakage Test & Actuator Maintenance",
+    "slug": "training-industrial-valve-inspection-seat-leakage-test-actuator-maintenance"
+  },
+  {
+    "index": 45,
+    "title": "Training Predictive Maintenance (PdM) & Infrared Thermography Survey",
+    "slug": "training-predictive-maintenance-pdm-infrared-thermography-survey"
+  },
+  {
+    "index": 46,
+    "title": "Training AC/DC Electric Motor Rewinding, Insulation Testing & Surge Test",
+    "slug": "training-ac-dc-electric-motor-rewinding-insulation-testing-surge-test"
+  },
+  {
+    "index": 47,
+    "title": "Training Power Transformer Dissolved Gas Analysis (DGA) & Oil Purification",
+    "slug": "training-power-transformer-dissolved-gas-analysis-dga-oil-purification"
+  },
+  {
+    "index": 48,
+    "title": "Training Helical & Planetary Gear Manufacturing Precision Inspection",
+    "slug": "training-helical-planetary-gear-manufacturing-precision-inspection"
+  },
+  {
+    "index": 49,
+    "title": "Training Hazardous Chemical Handling, SDS & Spillage Control System",
+    "slug": "training-hazardous-chemical-handling-sds-spillage-control-system"
+  },
+  {
+    "index": 50,
+    "title": "Training Coal-Fired Steam Power Plant (PLTU) Boiler & Auxiliary Operations",
+    "slug": "training-coal-fired-steam-power-plant-pltu-boiler-auxiliary-operations"
+  },
+  {
+    "index": 51,
+    "title": "Training Industrial Hydraulic System Troubleshooting & Servo Valve Repair",
+    "slug": "training-industrial-hydraulic-system-troubleshooting-servo-valve-repair"
+  },
+  {
+    "index": 52,
+    "title": "Training Industrial Pneumatic Circuit Design, Air Preparation & Actuators",
+    "slug": "training-industrial-pneumatic-circuit-design-air-preparation-actuators"
+  },
+  {
+    "index": 53,
+    "title": "Training Gas & Steam Turbine Overhaul, Blade Inspection & Rotor Balancing",
+    "slug": "training-gas-steam-turbine-overhaul-blade-inspection-rotor-balancing"
+  },
+  {
+    "index": 54,
+    "title": "Training Shielded Metal Arc Welding (SMAW) WPS / PQR Qualified Welding",
+    "slug": "training-shielded-metal-arc-welding-smaw-wps-pqr-qualified-welding"
+  },
+  {
+    "index": 55,
+    "title": "Training Storage Tank API 650 Design, API 653 Inspection & Settlement Analysis",
+    "slug": "training-storage-tank-api-650-design-api-653-inspection-settlement-analysis"
+  },
+  {
+    "index": 56,
+    "title": "Training Project Scheduling, Critical Path Method (CPM) & Project Controls",
+    "slug": "training-project-scheduling-critical-path-method-cpm-project-controls"
+  },
+  {
+    "index": 57,
+    "title": "Training Project Management Body of Knowledge (PMBOK) for Lead Engineers",
+    "slug": "training-project-management-body-of-knowledge-pmbok-for-lead-engineers"
+  },
+  {
+    "index": 58,
+    "title": "Training Low Voltage Lightning Protection & Grounding Grid Design IEEE 80",
+    "slug": "training-low-voltage-lightning-protection-grounding-grid-design-ieee-80"
+  },
+  {
+    "index": 59,
+    "title": "Training Quality Control (QC) Civil Concrete, Compaction & Earthwork",
+    "slug": "training-quality-control-qc-civil-concrete-compaction-earthwork"
+  },
+  {
+    "index": 60,
+    "title": "Training Welding Metallurgy, Carbon Equivalent & Weld Crack Prevention",
+    "slug": "training-welding-metallurgy-carbon-equivalent-weld-crack-prevention"
+  },
+  {
+    "index": 61,
+    "title": "Training Hydraulic Power Unit (HPU) Proportional Valve Control & Tuning",
+    "slug": "training-hydraulic-power-unit-hpu-proportional-valve-control-tuning"
+  },
+  {
+    "index": 62,
+    "title": "Training Heat Exchanger TEMA Thermal Design, Tube Cleaning & Eddy Current",
+    "slug": "training-heat-exchanger-tema-thermal-design-tube-cleaning-eddy-current"
+  },
+  {
+    "index": 63,
+    "title": "Training Fire Risk Assessment & Industrial Fire Fighting Deluge System",
+    "slug": "training-fire-risk-assessment-industrial-fire-fighting-deluge-system"
+  },
+  {
+    "index": 64,
+    "title": "Training Custody Transfer Flow Metering, Coriolis & Ultrasonic Proving",
+    "slug": "training-custody-transfer-flow-metering-coriolis-ultrasonic-proving"
+  },
+  {
+    "index": 65,
+    "title": "Training Occupational Noise Control & Industrial Audiometric Hearing Conservation",
+    "slug": "training-occupational-noise-control-industrial-audiometric-hearing-conservation"
+  },
+  {
+    "index": 66,
+    "title": "Training Boiler Water Tube Descaling, Chemical Cleaning & Water Quality",
+    "slug": "training-boiler-water-tube-descaling-chemical-cleaning-water-quality"
+  },
+  {
+    "index": 67,
+    "title": "Training Basic Geology & Geomechanics for Non-Geologist Field Personnel",
+    "slug": "training-basic-geology-geomechanics-for-non-geologist-field-personnel"
+  },
+  {
+    "index": 68,
+    "title": "Training Dynamic Balancing & Field Vibration Correction on Rotors",
+    "slug": "training-dynamic-balancing-field-vibration-correction-on-rotors"
+  },
+  {
+    "index": 69,
+    "title": "Training Directional Drilling Engineering, MWD/LWD & BHA Well Planning",
+    "slug": "training-directional-drilling-engineering-mwd-lwd-bha-well-planning"
+  },
+  {
+    "index": 70,
+    "title": "Training Electrostatic Precipitator (ESP) Fly Ash Collection Efficiency",
+    "slug": "training-electrostatic-precipitator-esp-fly-ash-collection-efficiency"
+  },
+  {
+    "index": 71,
+    "title": "Training Medium Voltage Cable Splicing, Termination & VLF Tan Delta Testing",
+    "slug": "training-medium-voltage-cable-splicing-termination-vlf-tan-delta-testing"
+  },
+  {
+    "index": 72,
+    "title": "Training Piston Coring Soil Sampling & Marine Geotechnical Investigation",
+    "slug": "training-piston-coring-soil-sampling-marine-geotechnical-investigation"
+  },
+  {
+    "index": 73,
+    "title": "Training Dynamic System Simulation & Industrial Process Loop Tuning",
+    "slug": "training-dynamic-system-simulation-industrial-process-loop-tuning"
+  },
+  {
+    "index": 74,
+    "title": "Training Building Automation System (BAS) Energy Management & Facility Maintenance",
+    "slug": "training-building-automation-system-bas-energy-management-facility-maintenance"
+  },
+  {
+    "index": 75,
+    "title": "Training VSAT Satellite Communication Dish Alignment & RF Transceiver Tuning",
+    "slug": "training-vsat-satellite-communication-dish-alignment-rf-transceiver-tuning"
+  },
+  {
+    "index": 76,
+    "title": "Training Heavy Equipment Undercarriage Inspection & Track Tensioning",
+    "slug": "training-heavy-equipment-undercarriage-inspection-track-tensioning"
+  },
+  {
+    "index": 77,
+    "title": "Training Automated Packaging Machinery, Servo Drives & Motion Controllers",
+    "slug": "training-automated-packaging-machinery-servo-drives-motion-controllers"
+  },
+  {
+    "index": 78,
+    "title": "Training Steam Trap Auditing, Ultrasonic Steam Leak Survey & Energy Savings",
+    "slug": "training-steam-trap-auditing-ultrasonic-steam-leak-survey-energy-savings"
+  },
+  {
+    "index": 79,
+    "title": "Training Pressure Relief Valve (PRV) Pop-Test Bench Testing & ASME Sec VIII",
+    "slug": "training-pressure-relief-valve-prv-pop-test-bench-testing-asme-sec-viii"
+  },
+  {
+    "index": 80,
+    "title": "Training Reciprocating Compressor Rod Drop, Packing & Valve Maintenance",
+    "slug": "training-reciprocating-compressor-rod-drop-packing-valve-maintenance"
+  },
+  {
+    "index": 81,
+    "title": "Training Oil Conditioning, Particle Count ISO 4406 & Lubrication Tribology",
+    "slug": "training-oil-conditioning-particle-count-iso-4406-lubrication-tribology"
+  },
+  {
+    "index": 82,
+    "title": "Training Acoustic Emission Testing for Structural Health Monitoring",
+    "slug": "training-acoustic-emission-testing-for-structural-health-monitoring"
+  },
+  {
+    "index": 83,
+    "title": "Training Ground Penetrating Radar (GPR) Subsurface Utility Engineering",
+    "slug": "training-ground-penetrating-radar-gpr-subsurface-utility-engineering"
+  },
+  {
+    "index": 84,
+    "title": "Training Industrial Burner Management System (BMS) NFPA 85 Safety Interlocks",
+    "slug": "training-industrial-burner-management-system-bms-nfpa-85-safety-interlocks"
+  },
+  {
+    "index": 85,
+    "title": "Training Cooling Water Microbiological Treatment & Biocide Dosing System",
+    "slug": "training-cooling-water-microbiological-treatment-biocide-dosing-system"
+  },
+  {
+    "index": 86,
+    "title": "Training Overhead Travelling Crane (EOTC) Wire Rope & Brake Inspection",
+    "slug": "training-overhead-travelling-crane-eotc-wire-rope-brake-inspection"
+  },
+  {
+    "index": 87,
+    "title": "Training Scaffolding Erection Safety, Load Calculation & Green Tag Inspection",
+    "slug": "training-scaffolding-erection-safety-load-calculation-green-tag-inspection"
+  },
+  {
+    "index": 88,
+    "title": "Training Laser Shaft Alignment Tolerance per ANSI/ASA S2.75 Standards",
+    "slug": "training-laser-shaft-alignment-tolerance-per-ansi-asa-s2-75-standards"
+  },
+  {
+    "index": 89,
+    "title": "Training Motor Current Signature Analysis (MCSA) for Rotor Bar Faults",
+    "slug": "training-motor-current-signature-analysis-mcsa-for-rotor-bar-faults"
+  },
+  {
+    "index": 90,
+    "title": "Training Submersible Deep Well Pump Installation & Hydrological Yield Test",
+    "slug": "training-submersible-deep-well-pump-installation-hydrological-yield-test"
+  },
+  {
+    "index": 91,
+    "title": "Training Compressed Air System Audit, CFM Leak Detection & VFD Trim",
+    "slug": "training-compressed-air-system-audit-cfm-leak-detection-vfd-trim"
+  },
+  {
+    "index": 92,
+    "title": "Training Arc Flash Hazard Analysis IEEE 1584 & NFPA 70E PPE Selection",
+    "slug": "training-arc-flash-hazard-analysis-ieee-1584-nfpa-70e-ppe-selection"
+  },
+  {
+    "index": 93,
+    "title": "Training Piping Stress Analysis using CAESAR II & Pipe Support Optimization",
+    "slug": "training-piping-stress-analysis-using-caesar-ii-pipe-support-optimization"
+  },
+  {
+    "index": 94,
+    "title": "Training Flare System Knock-Out Drum, Molecular Seal & Pilot Igniter Repair",
+    "slug": "training-flare-system-knock-out-drum-molecular-seal-pilot-igniter-repair"
+  },
+  {
+    "index": 95,
+    "title": "Training Industrial Dust Collector Baghouse Pulse-Jet Cleaning & Maintenance",
+    "slug": "training-industrial-dust-collector-baghouse-pulse-jet-cleaning-maintenance"
+  },
+  {
+    "index": 96,
+    "title": "Training High Voltage Circuit Breaker Timing Test & SF6 Gas Quality Analysis",
+    "slug": "training-high-voltage-circuit-breaker-timing-test-sf6-gas-quality-analysis"
+  },
+  {
+    "index": 97,
+    "title": "Training Hazardous Area Electrical Equipment Classification IECEx / ATEX",
+    "slug": "training-hazardous-area-electrical-equipment-classification-iecex-atex"
+  },
+  {
+    "index": 98,
+    "title": "Training Slurry Pump High Chrome Impeller Wear Life & Sump Hydraulics",
+    "slug": "training-slurry-pump-high-chrome-impeller-wear-life-sump-hydraulics"
+  },
+  {
+    "index": 99,
+    "title": "Training Thermal Imaging Camera Inspections for Electrical Distribution Boards",
+    "slug": "training-thermal-imaging-camera-inspections-for-electrical-distribution-boards"
+  },
+  {
+    "index": 100,
+    "title": "Training Centrifugal Fan Aerodynamic Optimization & Field Vibration Trimming",
+    "slug": "training-centrifugal-fan-aerodynamic-optimization-field-vibration-trimming"
+  },
+  {
+    "index": 101,
+    "title": "Training Lanjutan & Sertifikasi Refrigeration Safety & Industrial Control System",
+    "slug": "training-lanjutan-sertifikasi-refrigeration-safety-industrial-control-system"
+  },
+  {
+    "index": 102,
+    "title": "Training Lanjutan & Sertifikasi Lifting Gear Inspection, Rigging & Crane Safety",
+    "slug": "training-lanjutan-sertifikasi-lifting-gear-inspection-rigging-crane-safety"
+  },
+  {
+    "index": 103,
+    "title": "Training Lanjutan & Sertifikasi Rotating Equipment Operation, Maintenance & Troubleshooting",
+    "slug": "training-lanjutan-sertifikasi-rotating-equipment-operation-maintenance-troubleshooting"
+  },
+  {
+    "index": 104,
+    "title": "Training Lanjutan & Sertifikasi Reliability Centered Maintenance (RCM) Strategy",
+    "slug": "training-lanjutan-sertifikasi-reliability-centered-maintenance-rcm-strategy"
+  },
+  {
+    "index": 105,
+    "title": "Training Lanjutan & Sertifikasi Advance Building Management & Smart Automation",
+    "slug": "training-lanjutan-sertifikasi-advance-building-management-smart-automation"
+  },
+  {
+    "index": 106,
+    "title": "Training Lanjutan & Sertifikasi Industrial Magnetic Particle Testing & Non-Destructive Evaluation",
+    "slug": "training-lanjutan-sertifikasi-industrial-magnetic-particle-testing-non-destructive-evaluation"
+  },
+  {
+    "index": 107,
+    "title": "Training Lanjutan & Sertifikasi Machinery Vibration Analysis & Spectrum Diagnostics",
+    "slug": "training-lanjutan-sertifikasi-machinery-vibration-analysis-spectrum-diagnostics"
+  },
+  {
+    "index": 108,
+    "title": "Training Lanjutan & Sertifikasi Total Productive Maintenance (TPM) Implementation",
+    "slug": "training-lanjutan-sertifikasi-total-productive-maintenance-tpm-implementation"
+  },
+  {
+    "index": 109,
+    "title": "Training Lanjutan & Sertifikasi Electrical Maintenance Low and Medium Voltage Substation",
+    "slug": "training-lanjutan-sertifikasi-electrical-maintenance-low-and-medium-voltage-substation"
+  },
+  {
+    "index": 110,
+    "title": "Training Lanjutan & Sertifikasi Electrical Inspection Low-Medium Voltage Switchgear Panel",
+    "slug": "training-lanjutan-sertifikasi-electrical-inspection-low-medium-voltage-switchgear-panel"
+  },
+  {
+    "index": 111,
+    "title": "Training Lanjutan & Sertifikasi SolidWorks Mechanical Product Design & 3D CAD Modeling",
+    "slug": "training-lanjutan-sertifikasi-solidworks-mechanical-product-design-3d-cad-modeling"
+  },
+  {
+    "index": 112,
+    "title": "Training Lanjutan & Sertifikasi Control Valve Sizing, Operation, Maintenance & Calibration",
+    "slug": "training-lanjutan-sertifikasi-control-valve-sizing-operation-maintenance-calibration"
+  },
+  {
+    "index": 113,
+    "title": "Training Lanjutan & Sertifikasi Centrifugal Compressor Operation & Gas Turbine Performance",
+    "slug": "training-lanjutan-sertifikasi-centrifugal-compressor-operation-gas-turbine-performance"
+  },
+  {
+    "index": 114,
+    "title": "Training Lanjutan & Sertifikasi Centrifugal Pump Overhaul, Dynamic Balancing & Mechanical Seal",
+    "slug": "training-lanjutan-sertifikasi-centrifugal-pump-overhaul-dynamic-balancing-mechanical-seal"
+  },
+  {
+    "index": 115,
+    "title": "Training Lanjutan & Sertifikasi Cathodic Protection Pipeline & Underground Storage Tank",
+    "slug": "training-lanjutan-sertifikasi-cathodic-protection-pipeline-underground-storage-tank"
+  },
+  {
+    "index": 116,
+    "title": "Training Lanjutan & Sertifikasi Belt Conveyor System Operation, Splice & Maintenance",
+    "slug": "training-lanjutan-sertifikasi-belt-conveyor-system-operation-splice-maintenance"
+  },
+  {
+    "index": 117,
+    "title": "Training Lanjutan & Sertifikasi Precision Shaft Alignment, Laser Balancing & Coupling Inspection",
+    "slug": "training-lanjutan-sertifikasi-precision-shaft-alignment-laser-balancing-coupling-inspection"
+  },
+  {
+    "index": 118,
+    "title": "Training Lanjutan & Sertifikasi PLC, HMI & SCADA Programming for Industrial Automation",
+    "slug": "training-lanjutan-sertifikasi-plc-hmi-scada-programming-for-industrial-automation"
+  },
+  {
+    "index": 119,
+    "title": "Training Lanjutan & Sertifikasi Heavy Equipment Fleet Management & Maintenance Planning",
+    "slug": "training-lanjutan-sertifikasi-heavy-equipment-fleet-management-maintenance-planning"
+  },
+  {
+    "index": 120,
+    "title": "Training Lanjutan & Sertifikasi Industrial Chiller, Cooling Tower & Water Treatment System",
+    "slug": "training-lanjutan-sertifikasi-industrial-chiller-cooling-tower-water-treatment-system"
+  },
+  {
+    "index": 121,
+    "title": "Training Lanjutan & Sertifikasi HVAC Operation, Psychrometric Air Balancing & Maintenance",
+    "slug": "training-lanjutan-sertifikasi-hvac-operation-psychrometric-air-balancing-maintenance"
+  },
+  {
+    "index": 122,
+    "title": "Training Lanjutan & Sertifikasi Corrosion Monitoring & Cathodic Prevention Engineering",
+    "slug": "training-lanjutan-sertifikasi-corrosion-monitoring-cathodic-prevention-engineering"
+  },
+  {
+    "index": 123,
+    "title": "Training Lanjutan & Sertifikasi Weighbridge Load Cell Calibration, Inspection & Maintenance",
+    "slug": "training-lanjutan-sertifikasi-weighbridge-load-cell-calibration-inspection-maintenance"
+  },
+  {
+    "index": 124,
+    "title": "Training Lanjutan & Sertifikasi Heavy Vehicle Diagnostic, Common Rail Diesel & ECU Scanning",
+    "slug": "training-lanjutan-sertifikasi-heavy-vehicle-diagnostic-common-rail-diesel-ecu-scanning"
+  },
+  {
+    "index": 125,
+    "title": "Training Lanjutan & Sertifikasi Mechatronics System Integration & Industrial Sensorics",
+    "slug": "training-lanjutan-sertifikasi-mechatronics-system-integration-industrial-sensorics"
+  },
+  {
+    "index": 126,
+    "title": "Training Lanjutan & Sertifikasi Diesel Engine Overhaul, Fuel Injection & Emission Tuning",
+    "slug": "training-lanjutan-sertifikasi-diesel-engine-overhaul-fuel-injection-emission-tuning"
+  },
+  {
+    "index": 127,
+    "title": "Training Lanjutan & Sertifikasi Distributed Control System (DCS) Engineering & Architecture",
+    "slug": "training-lanjutan-sertifikasi-distributed-control-system-dcs-engineering-architecture"
+  },
+  {
+    "index": 128,
+    "title": "Training Lanjutan & Sertifikasi Geotechnical Soil Testing, Slope Stability & Earthwork QA/QC",
+    "slug": "training-lanjutan-sertifikasi-geotechnical-soil-testing-slope-stability-earthwork-qa-qc"
+  },
+  {
+    "index": 129,
+    "title": "Training Lanjutan & Sertifikasi Industrial Generator Set (Genset) Synchronization & Protection",
+    "slug": "training-lanjutan-sertifikasi-industrial-generator-set-genset-synchronization-protection"
+  },
+  {
+    "index": 130,
+    "title": "Training Lanjutan & Sertifikasi Reliability, Availability & Maintainability (RAM) Modeling",
+    "slug": "training-lanjutan-sertifikasi-reliability-availability-maintainability-ram-modeling"
+  },
+  {
+    "index": 131,
+    "title": "Training Lanjutan & Sertifikasi Industrial Gearbox Overhaul, Bearing Fit & Lubrication Analysis",
+    "slug": "training-lanjutan-sertifikasi-industrial-gearbox-overhaul-bearing-fit-lubrication-analysis"
+  },
+  {
+    "index": 132,
+    "title": "Training Lanjutan & Sertifikasi Gas Metal Arc Welding (GMAW / MIG-MAG) Quality Control",
+    "slug": "training-lanjutan-sertifikasi-gas-metal-arc-welding-gmaw-mig-mag-quality-control"
+  },
+  {
+    "index": 133,
+    "title": "Training Lanjutan & Sertifikasi Gas Chromatography (GC-FID/TCD) Petrochemical Laboratory Analysis",
+    "slug": "training-lanjutan-sertifikasi-gas-chromatography-gc-fid-tcd-petrochemical-laboratory-analysis"
+  },
+  {
+    "index": 134,
+    "title": "Training Lanjutan & Sertifikasi Finite Element Analysis (FEA) Structural Stress Simulation",
+    "slug": "training-lanjutan-sertifikasi-finite-element-analysis-fea-structural-stress-simulation"
+  },
+  {
+    "index": 135,
+    "title": "Training Lanjutan & Sertifikasi Failure Analysis, Fractography & Material Defect Investigation",
+    "slug": "training-lanjutan-sertifikasi-failure-analysis-fractography-material-defect-investigation"
+  },
+  {
+    "index": 136,
+    "title": "Training Lanjutan & Sertifikasi Variable Speed Drive (VSD / VFD) Harmonics & Motor Protection",
+    "slug": "training-lanjutan-sertifikasi-variable-speed-drive-vsd-vfd-harmonics-motor-protection"
+  },
+  {
+    "index": 137,
+    "title": "Training Lanjutan & Sertifikasi Total Productive Maintenance (TPM) Overall Equipment Effectiveness (OEE)",
+    "slug": "training-lanjutan-sertifikasi-total-productive-maintenance-tpm-overall-equipment-effectiveness-oee"
+  },
+  {
+    "index": 138,
+    "title": "Training Lanjutan & Sertifikasi Industrial Plant Turnaround, Shutdown & Outage Management",
+    "slug": "training-lanjutan-sertifikasi-industrial-plant-turnaround-shutdown-outage-management"
+  },
+  {
+    "index": 139,
+    "title": "Training Lanjutan & Sertifikasi Steam Boiler Efficiency Testing ASME PTC 4.1 & Burner Tuning",
+    "slug": "training-lanjutan-sertifikasi-steam-boiler-efficiency-testing-asme-ptc-4-1-burner-tuning"
+  },
+  {
+    "index": 140,
+    "title": "Training Lanjutan & Sertifikasi Advanced Instrumentation, Fieldbus & Smart Transmitter Calibration",
+    "slug": "training-lanjutan-sertifikasi-advanced-instrumentation-fieldbus-smart-transmitter-calibration"
+  },
+  {
+    "index": 141,
+    "title": "Training Lanjutan & Sertifikasi Metallurgy for Mechanical Engineers & Heat Treatment Process",
+    "slug": "training-lanjutan-sertifikasi-metallurgy-for-mechanical-engineers-heat-treatment-process"
+  },
+  {
+    "index": 142,
+    "title": "Training Lanjutan & Sertifikasi CCTV Security Integration, IP Camera & Network Video Recording",
+    "slug": "training-lanjutan-sertifikasi-cctv-security-integration-ip-camera-network-video-recording"
+  },
+  {
+    "index": 143,
+    "title": "Training Lanjutan & Sertifikasi Mining Electrical Power System Protection & Relaying",
+    "slug": "training-lanjutan-sertifikasi-mining-electrical-power-system-protection-relaying"
+  },
+  {
+    "index": 144,
+    "title": "Training Lanjutan & Sertifikasi Industrial Valve Inspection, Seat Leakage Test & Actuator Maintenance",
+    "slug": "training-lanjutan-sertifikasi-industrial-valve-inspection-seat-leakage-test-actuator-maintenance"
+  },
+  {
+    "index": 145,
+    "title": "Training Lanjutan & Sertifikasi Predictive Maintenance (PdM) & Infrared Thermography Survey",
+    "slug": "training-lanjutan-sertifikasi-predictive-maintenance-pdm-infrared-thermography-survey"
+  },
+  {
+    "index": 146,
+    "title": "Training Lanjutan & Sertifikasi AC/DC Electric Motor Rewinding, Insulation Testing & Surge Test",
+    "slug": "training-lanjutan-sertifikasi-ac-dc-electric-motor-rewinding-insulation-testing-surge-test"
+  },
+  {
+    "index": 147,
+    "title": "Training Lanjutan & Sertifikasi Power Transformer Dissolved Gas Analysis (DGA) & Oil Purification",
+    "slug": "training-lanjutan-sertifikasi-power-transformer-dissolved-gas-analysis-dga-oil-purification"
+  },
+  {
+    "index": 148,
+    "title": "Training Lanjutan & Sertifikasi Helical & Planetary Gear Manufacturing Precision Inspection",
+    "slug": "training-lanjutan-sertifikasi-helical-planetary-gear-manufacturing-precision-inspection"
+  },
+  {
+    "index": 149,
+    "title": "Training Lanjutan & Sertifikasi Hazardous Chemical Handling, SDS & Spillage Control System",
+    "slug": "training-lanjutan-sertifikasi-hazardous-chemical-handling-sds-spillage-control-system"
+  },
+  {
+    "index": 150,
+    "title": "Training Lanjutan & Sertifikasi Coal-Fired Steam Power Plant (PLTU) Boiler & Auxiliary Operations",
+    "slug": "training-lanjutan-sertifikasi-coal-fired-steam-power-plant-pltu-boiler-auxiliary-operations"
+  },
+  {
+    "index": 151,
+    "title": "Training Lanjutan & Sertifikasi Industrial Hydraulic System Troubleshooting & Servo Valve Repair",
+    "slug": "training-lanjutan-sertifikasi-industrial-hydraulic-system-troubleshooting-servo-valve-repair"
+  },
+  {
+    "index": 152,
+    "title": "Training Lanjutan & Sertifikasi Industrial Pneumatic Circuit Design, Air Preparation & Actuators",
+    "slug": "training-lanjutan-sertifikasi-industrial-pneumatic-circuit-design-air-preparation-actuators"
+  },
+  {
+    "index": 153,
+    "title": "Training Lanjutan & Sertifikasi Gas & Steam Turbine Overhaul, Blade Inspection & Rotor Balancing",
+    "slug": "training-lanjutan-sertifikasi-gas-steam-turbine-overhaul-blade-inspection-rotor-balancing"
+  },
+  {
+    "index": 154,
+    "title": "Training Lanjutan & Sertifikasi Shielded Metal Arc Welding (SMAW) WPS / PQR Qualified Welding",
+    "slug": "training-lanjutan-sertifikasi-shielded-metal-arc-welding-smaw-wps-pqr-qualified-welding"
+  },
+  {
+    "index": 155,
+    "title": "Training Lanjutan & Sertifikasi Storage Tank API 650 Design, API 653 Inspection & Settlement Analysis",
+    "slug": "training-lanjutan-sertifikasi-storage-tank-api-650-design-api-653-inspection-settlement-analysis"
+  },
+  {
+    "index": 156,
+    "title": "Training Lanjutan & Sertifikasi Project Scheduling, Critical Path Method (CPM) & Project Controls",
+    "slug": "training-lanjutan-sertifikasi-project-scheduling-critical-path-method-cpm-project-controls"
+  },
+  {
+    "index": 157,
+    "title": "Training Lanjutan & Sertifikasi Project Management Body of Knowledge (PMBOK) for Lead Engineers",
+    "slug": "training-lanjutan-sertifikasi-project-management-body-of-knowledge-pmbok-for-lead-engineers"
+  },
+  {
+    "index": 158,
+    "title": "Training Lanjutan & Sertifikasi Low Voltage Lightning Protection & Grounding Grid Design IEEE 80",
+    "slug": "training-lanjutan-sertifikasi-low-voltage-lightning-protection-grounding-grid-design-ieee-80"
+  },
+  {
+    "index": 159,
+    "title": "Training Lanjutan & Sertifikasi Quality Control (QC) Civil Concrete, Compaction & Earthwork",
+    "slug": "training-lanjutan-sertifikasi-quality-control-qc-civil-concrete-compaction-earthwork"
+  },
+  {
+    "index": 160,
+    "title": "Training Lanjutan & Sertifikasi Welding Metallurgy, Carbon Equivalent & Weld Crack Prevention",
+    "slug": "training-lanjutan-sertifikasi-welding-metallurgy-carbon-equivalent-weld-crack-prevention"
+  },
+  {
+    "index": 161,
+    "title": "Training Lanjutan & Sertifikasi Hydraulic Power Unit (HPU) Proportional Valve Control & Tuning",
+    "slug": "training-lanjutan-sertifikasi-hydraulic-power-unit-hpu-proportional-valve-control-tuning"
+  },
+  {
+    "index": 162,
+    "title": "Training Lanjutan & Sertifikasi Heat Exchanger TEMA Thermal Design, Tube Cleaning & Eddy Current",
+    "slug": "training-lanjutan-sertifikasi-heat-exchanger-tema-thermal-design-tube-cleaning-eddy-current"
+  },
+  {
+    "index": 163,
+    "title": "Training Lanjutan & Sertifikasi Fire Risk Assessment & Industrial Fire Fighting Deluge System",
+    "slug": "training-lanjutan-sertifikasi-fire-risk-assessment-industrial-fire-fighting-deluge-system"
+  },
+  {
+    "index": 164,
+    "title": "Training Lanjutan & Sertifikasi Custody Transfer Flow Metering, Coriolis & Ultrasonic Proving",
+    "slug": "training-lanjutan-sertifikasi-custody-transfer-flow-metering-coriolis-ultrasonic-proving"
+  },
+  {
+    "index": 165,
+    "title": "Training Lanjutan & Sertifikasi Occupational Noise Control & Industrial Audiometric Hearing Conservation",
+    "slug": "training-lanjutan-sertifikasi-occupational-noise-control-industrial-audiometric-hearing-conservation"
+  },
+  {
+    "index": 166,
+    "title": "Training Lanjutan & Sertifikasi Boiler Water Tube Descaling, Chemical Cleaning & Water Quality",
+    "slug": "training-lanjutan-sertifikasi-boiler-water-tube-descaling-chemical-cleaning-water-quality"
+  },
+  {
+    "index": 167,
+    "title": "Training Lanjutan & Sertifikasi Basic Geology & Geomechanics for Non-Geologist Field Personnel",
+    "slug": "training-lanjutan-sertifikasi-basic-geology-geomechanics-for-non-geologist-field-personnel"
+  },
+  {
+    "index": 168,
+    "title": "Training Lanjutan & Sertifikasi Dynamic Balancing & Field Vibration Correction on Rotors",
+    "slug": "training-lanjutan-sertifikasi-dynamic-balancing-field-vibration-correction-on-rotors"
+  },
+  {
+    "index": 169,
+    "title": "Training Lanjutan & Sertifikasi Directional Drilling Engineering, MWD/LWD & BHA Well Planning",
+    "slug": "training-lanjutan-sertifikasi-directional-drilling-engineering-mwd-lwd-bha-well-planning"
+  },
+  {
+    "index": 170,
+    "title": "Training Lanjutan & Sertifikasi Electrostatic Precipitator (ESP) Fly Ash Collection Efficiency",
+    "slug": "training-lanjutan-sertifikasi-electrostatic-precipitator-esp-fly-ash-collection-efficiency"
+  },
+  {
+    "index": 171,
+    "title": "Training Lanjutan & Sertifikasi Medium Voltage Cable Splicing, Termination & VLF Tan Delta Testing",
+    "slug": "training-lanjutan-sertifikasi-medium-voltage-cable-splicing-termination-vlf-tan-delta-testing"
+  },
+  {
+    "index": 172,
+    "title": "Training Lanjutan & Sertifikasi Piston Coring Soil Sampling & Marine Geotechnical Investigation",
+    "slug": "training-lanjutan-sertifikasi-piston-coring-soil-sampling-marine-geotechnical-investigation"
+  },
+  {
+    "index": 173,
+    "title": "Training Lanjutan & Sertifikasi Dynamic System Simulation & Industrial Process Loop Tuning",
+    "slug": "training-lanjutan-sertifikasi-dynamic-system-simulation-industrial-process-loop-tuning"
+  },
+  {
+    "index": 174,
+    "title": "Training Lanjutan & Sertifikasi Building Automation System (BAS) Energy Management & Facility Maintenance",
+    "slug": "training-lanjutan-sertifikasi-building-automation-system-bas-energy-management-facility-maintenance"
+  },
+  {
+    "index": 175,
+    "title": "Training Lanjutan & Sertifikasi VSAT Satellite Communication Dish Alignment & RF Transceiver Tuning",
+    "slug": "training-lanjutan-sertifikasi-vsat-satellite-communication-dish-alignment-rf-transceiver-tuning"
+  },
+  {
+    "index": 176,
+    "title": "Training Lanjutan & Sertifikasi Heavy Equipment Undercarriage Inspection & Track Tensioning",
+    "slug": "training-lanjutan-sertifikasi-heavy-equipment-undercarriage-inspection-track-tensioning"
+  },
+  {
+    "index": 177,
+    "title": "Training Lanjutan & Sertifikasi Automated Packaging Machinery, Servo Drives & Motion Controllers",
+    "slug": "training-lanjutan-sertifikasi-automated-packaging-machinery-servo-drives-motion-controllers"
+  },
+  {
+    "index": 178,
+    "title": "Training Lanjutan & Sertifikasi Steam Trap Auditing, Ultrasonic Steam Leak Survey & Energy Savings",
+    "slug": "training-lanjutan-sertifikasi-steam-trap-auditing-ultrasonic-steam-leak-survey-energy-savings"
+  },
+  {
+    "index": 179,
+    "title": "Training Lanjutan & Sertifikasi Pressure Relief Valve (PRV) Pop-Test Bench Testing & ASME Sec VIII",
+    "slug": "training-lanjutan-sertifikasi-pressure-relief-valve-prv-pop-test-bench-testing-asme-sec-viii"
+  },
+  {
+    "index": 180,
+    "title": "Training Lanjutan & Sertifikasi Reciprocating Compressor Rod Drop, Packing & Valve Maintenance",
+    "slug": "training-lanjutan-sertifikasi-reciprocating-compressor-rod-drop-packing-valve-maintenance"
+  },
+  {
+    "index": 181,
+    "title": "Training Lanjutan & Sertifikasi Oil Conditioning, Particle Count ISO 4406 & Lubrication Tribology",
+    "slug": "training-lanjutan-sertifikasi-oil-conditioning-particle-count-iso-4406-lubrication-tribology"
+  },
+  {
+    "index": 182,
+    "title": "Training Lanjutan & Sertifikasi Acoustic Emission Testing for Structural Health Monitoring",
+    "slug": "training-lanjutan-sertifikasi-acoustic-emission-testing-for-structural-health-monitoring"
+  },
+  {
+    "index": 183,
+    "title": "Training Lanjutan & Sertifikasi Ground Penetrating Radar (GPR) Subsurface Utility Engineering",
+    "slug": "training-lanjutan-sertifikasi-ground-penetrating-radar-gpr-subsurface-utility-engineering"
+  },
+  {
+    "index": 184,
+    "title": "Training Lanjutan & Sertifikasi Industrial Burner Management System (BMS) NFPA 85 Safety Interlocks",
+    "slug": "training-lanjutan-sertifikasi-industrial-burner-management-system-bms-nfpa-85-safety-interlocks"
+  },
+  {
+    "index": 185,
+    "title": "Training Lanjutan & Sertifikasi Cooling Water Microbiological Treatment & Biocide Dosing System",
+    "slug": "training-lanjutan-sertifikasi-cooling-water-microbiological-treatment-biocide-dosing-system"
+  },
+  {
+    "index": 186,
+    "title": "Training Lanjutan & Sertifikasi Overhead Travelling Crane (EOTC) Wire Rope & Brake Inspection",
+    "slug": "training-lanjutan-sertifikasi-overhead-travelling-crane-eotc-wire-rope-brake-inspection"
+  },
+  {
+    "index": 187,
+    "title": "Training Lanjutan & Sertifikasi Scaffolding Erection Safety, Load Calculation & Green Tag Inspection",
+    "slug": "training-lanjutan-sertifikasi-scaffolding-erection-safety-load-calculation-green-tag-inspection"
+  },
+  {
+    "index": 188,
+    "title": "Training Lanjutan & Sertifikasi Laser Shaft Alignment Tolerance per ANSI/ASA S2.75 Standards",
+    "slug": "training-lanjutan-sertifikasi-laser-shaft-alignment-tolerance-per-ansi-asa-s2-75-standards"
+  },
+  {
+    "index": 189,
+    "title": "Training Lanjutan & Sertifikasi Motor Current Signature Analysis (MCSA) for Rotor Bar Faults",
+    "slug": "training-lanjutan-sertifikasi-motor-current-signature-analysis-mcsa-for-rotor-bar-faults"
+  },
+  {
+    "index": 190,
+    "title": "Training Lanjutan & Sertifikasi Submersible Deep Well Pump Installation & Hydrological Yield Test",
+    "slug": "training-lanjutan-sertifikasi-submersible-deep-well-pump-installation-hydrological-yield-test"
+  },
+  {
+    "index": 191,
+    "title": "Training Lanjutan & Sertifikasi Compressed Air System Audit, CFM Leak Detection & VFD Trim",
+    "slug": "training-lanjutan-sertifikasi-compressed-air-system-audit-cfm-leak-detection-vfd-trim"
+  },
+  {
+    "index": 192,
+    "title": "Training Lanjutan & Sertifikasi Arc Flash Hazard Analysis IEEE 1584 & NFPA 70E PPE Selection",
+    "slug": "training-lanjutan-sertifikasi-arc-flash-hazard-analysis-ieee-1584-nfpa-70e-ppe-selection"
+  },
+  {
+    "index": 193,
+    "title": "Training Lanjutan & Sertifikasi Piping Stress Analysis using CAESAR II & Pipe Support Optimization",
+    "slug": "training-lanjutan-sertifikasi-piping-stress-analysis-using-caesar-ii-pipe-support-optimization"
+  },
+  {
+    "index": 194,
+    "title": "Training Lanjutan & Sertifikasi Flare System Knock-Out Drum, Molecular Seal & Pilot Igniter Repair",
+    "slug": "training-lanjutan-sertifikasi-flare-system-knock-out-drum-molecular-seal-pilot-igniter-repair"
+  },
+  {
+    "index": 195,
+    "title": "Training Lanjutan & Sertifikasi Industrial Dust Collector Baghouse Pulse-Jet Cleaning & Maintenance",
+    "slug": "training-lanjutan-sertifikasi-industrial-dust-collector-baghouse-pulse-jet-cleaning-maintenance"
+  },
+  {
+    "index": 196,
+    "title": "Training Lanjutan & Sertifikasi High Voltage Circuit Breaker Timing Test & SF6 Gas Quality Analysis",
+    "slug": "training-lanjutan-sertifikasi-high-voltage-circuit-breaker-timing-test-sf6-gas-quality-analysis"
+  },
+  {
+    "index": 197,
+    "title": "Training Lanjutan & Sertifikasi Hazardous Area Electrical Equipment Classification IECEx / ATEX",
+    "slug": "training-lanjutan-sertifikasi-hazardous-area-electrical-equipment-classification-iecex-atex"
+  },
+  {
+    "index": 198,
+    "title": "Training Lanjutan & Sertifikasi Slurry Pump High Chrome Impeller Wear Life & Sump Hydraulics",
+    "slug": "training-lanjutan-sertifikasi-slurry-pump-high-chrome-impeller-wear-life-sump-hydraulics"
+  },
+  {
+    "index": 199,
+    "title": "Training Lanjutan & Sertifikasi Thermal Imaging Camera Inspections for Electrical Distribution Boards",
+    "slug": "training-lanjutan-sertifikasi-thermal-imaging-camera-inspections-for-electrical-distribution-boards"
+  },
+  {
+    "index": 200,
+    "title": "Training Lanjutan & Sertifikasi Centrifugal Fan Aerodynamic Optimization & Field Vibration Trimming",
+    "slug": "training-lanjutan-sertifikasi-centrifugal-fan-aerodynamic-optimization-field-vibration-trimming"
+  }
+]
