@@ -1735,6 +1735,19 @@
     
 
     
+
+    <!-- Google Search Console Verification -->
+    <meta name="google-site-verification" content="xKWg90wC1tkNJMTilFh9I6t_5G2KtEGF0MGgCnDge5o" />
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-F2T7K3WTPL"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-F2T7K3WTPL');
+    </script>
 </head>
 <body>
 
